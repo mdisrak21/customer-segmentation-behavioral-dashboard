@@ -1,4 +1,4 @@
-# Progree Task 3 — Customer Segmentation & Behavioral Trend Dashboard
+# Customer Segmentation & Behavioral Trend Dashboard
 
 ## Project Overview
 
